@@ -26,7 +26,7 @@
 
 
 <div><h2>📊 Stats</h2>
-  <p align=center>
+  <p>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bokyungK&layout=compact">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bokyungK&theme=gruvbox_light_icons=true">
   </p>
