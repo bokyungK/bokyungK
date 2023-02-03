@@ -27,7 +27,7 @@
 
 <div><h2>📊 Stats</h2>
   <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bokyungK">
+    <img width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bokyungK">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bokyungK">
   </p>
 </div>
