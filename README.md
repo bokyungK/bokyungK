@@ -26,7 +26,8 @@
 
 
 <div><h2>📊 Stats</h2>
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bokyungK)](https://github.com/bokyungK/github-readme-stats)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bokyungK&layout=compact)](https://github.com/bokyungK/github-readme-stats)
-   [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bokyungK&theme=gruvbox_light_icons=true)
+  <p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bokyungK&layout=compact">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bokyungK&theme=gruvbox_light_icons=true">
+  </p>
 </div>
