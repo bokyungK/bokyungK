@@ -19,7 +19,7 @@
 </div>
 
 
-<div align=center><h1>📚 Projects</h1>
+<div align=left><h1>📚 Projects</h1>
   <div>찌니쌤 일본어: https://bokyungk.github.io/japanese-language-course-site/</div>
   <div>산책 일기 : https://walking-diary.netlify.app/</div>
 </div>
