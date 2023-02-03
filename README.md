@@ -23,3 +23,11 @@
   <div>찌니쌤 일본어: https://bokyungk.github.io/japanese-language-course-site/</div>
   <div>산책 일기 : https://walking-diary.netlify.app/</div>
 </div>
+
+
+<div><h2>Statistics</h2>
+  <div align=center>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bokyungK)](https://github.com/bokyungK/github-readme-stats)
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bokyungK)](https://github.com/bokyungK/github-readme-stats)
+  </div>
+</div>
