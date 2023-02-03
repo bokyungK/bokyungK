@@ -27,7 +27,7 @@
 
 <div><h2>📊 Stats</h2>
   <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bokyungK&layout=compact">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bokyungK&theme=gruvbox_light_icons=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bokyungK   &show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bokyungK&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   </p>
 </div>
