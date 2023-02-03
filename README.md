@@ -1,6 +1,6 @@
-## 안녕하세요! 🙂
+# 안녕하세요! 🙂
 
-<div><h1>🔧 Skills</h1>
+<div><h2>🔧 Skills</h2>
   <div> 
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -19,7 +19,7 @@
 </div>
 
 
-<div><h1>📚 Projects</h1>
+<div><h2>📚 Projects</h2>
   <div>찌니쌤 일본어: https://bokyungk.github.io/japanese-language-course-site/</div>
   <div>산책 일기 : https://walking-diary.netlify.app/</div>
 </div>
