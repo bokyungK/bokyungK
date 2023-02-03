@@ -17,13 +17,11 @@
     <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   </div>
 </div>
-<br />
 
 <div><h2>📚 Projects</h2>
   <div>찌니쌤 일본어: https://bokyungk.github.io/japanese-language-course-site/</div>
   <div>산책 일기 : https://walking-diary.netlify.app/</div>
 </div>
-<br />
 
 <div><h2>📊 Stats</h2>
   <p align="center">
