@@ -1,6 +1,7 @@
 # Hello! 🙂
 
-<div><h2>🔧</h2>
+<div>
+  <h2>🔧</h2>
   <div> 
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -19,12 +20,14 @@
 </div>
 <br />
 
-<div><h2>📑</h2>
+<div>
+  <h2>📑</h2>
   <div>https://bokyung-portfolio.netlify.app/</div>
 </div>
 <br />
 
-<div><h2>📊</h2>
+<div>
+  <h2>📊</h2>
   <p align="center">
     <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bokyungK&layout=compact">
     <img width="370em" src="https://github-readme-stats.vercel.app/api?username=bokyungK">
