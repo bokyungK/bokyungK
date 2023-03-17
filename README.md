@@ -19,7 +19,7 @@
 </div>
 <br />
 
-<div><h2>📚</h2>
+<div><h2>📑</h2>
   <div>https://bokyung-portfolio.netlify.app/</div>
 </div>
 <br />
