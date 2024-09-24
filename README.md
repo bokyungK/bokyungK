@@ -22,7 +22,7 @@
 
 <div>
   <h2>📑</h2>
-  <div>[포트폴리오](https://new-bokyung-portfolio.netlify.app/)</div>
+  [포트폴리오 보러가기](https://new-bokyung-portfolio.netlify.app/)
 </div>
 <br />
 
