@@ -29,6 +29,6 @@
 <br />
 
 <div>
-  <h2>📑 Portfolio</h2>
+  <h2>📑 My portfolio</h2>
   <div>https://new-bokyung-portfolio.netlify.app/</div>
 </div>
