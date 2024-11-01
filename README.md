@@ -28,7 +28,5 @@
 
 <div>
   <h2>📊</h2>
-  <p align="center">
-    <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bokyungK&layout=compact">
-  </p>
+  <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bokyungK&layout=compact">
 </div>
